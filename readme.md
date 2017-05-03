@@ -15,6 +15,7 @@
 
 ### JS部分
 + call,apply,bind的区别。实现一个bind函数
++ prototype和__proto__的区别
 + 怎么判断一个对象是不是数组(!isArray)
 + 实现一个indexOf
 + add(1)(2)(3)(4)... 无限柯里化实现参数相加(考察toString和valueOf)
@@ -32,6 +33,8 @@
 + 说一下事件流，和不同浏览器的差异
 + 对虚拟dom了解么，有什么优势
 + 说出几条页面性能优化的建议
++ 前端优化策略列举
++ 首屏，白屏时间如何计算
 
 ### http 部分
 - http和https的区别
