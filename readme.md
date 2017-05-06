@@ -24,6 +24,8 @@
 + ES6了解么，觉得ES6有哪些有用的地方
 + promise了解么。解决了什么问题
 + 实现一个随机10位字符串
++ amd,cmd,commonjs的区别
++ webpack和gulp/grunt的区别
 
 ### 页面部分
 + 页面加载的顺序
