@@ -26,6 +26,8 @@
 + symbol的作用场景，怎么看待Set Map，能否实现Object.assign()
 + promise解决了什么问题。你是如何处理多个异步函数并行的
 + 实现一个随机10位字符串(\/d/w\)
++ amd、cmd的区别，module.exports和exports的区别
+
 
 ### 页面部分
 + 页面加载的顺序
@@ -45,6 +47,7 @@
 - http劫持，dns劫持
 - 前后端分离，用户登录的安全性问题
 - 怎么设置cookie，cookie和localstorage区别
++ 输入一个URL到页面呈现，经历了什么
 
 ### 算法部分
 - 排序算法
