@@ -16,6 +16,7 @@
 ### JS部分
 + call,apply,bind的区别。实现一个bind函数
 + prototype和__proto__的区别
++ 伪数组怎么转成数组
 + 怎么判断一个对象是不是数组(!isArray)
 + 实现一个indexOf
 + add(1)(2)(3)(4)... 无限柯里化实现参数相加(考察toString和valueOf)
